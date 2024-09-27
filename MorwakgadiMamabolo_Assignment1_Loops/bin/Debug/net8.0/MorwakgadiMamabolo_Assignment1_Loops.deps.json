@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MorwakgadiMamabolo_Assignment1_Loops/1.0.0": {
+        "runtime": {
+          "MorwakgadiMamabolo_Assignment1_Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MorwakgadiMamabolo_Assignment1_Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
